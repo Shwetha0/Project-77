@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(lightcoral 0%, rgb(255, 0, 81) 100%);
+}
+h1
+{
+    font-style: oblique;
+ 
+}
+p
+{
+    font-size: 25px;
+    color: antiquewhite;
+}
+img
+{
+    width: 40%;
+    height: 60%;
+    border-width: 6px;
+    border-style: outset;
+}
